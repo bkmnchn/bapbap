@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382180039376",
+    "project_id": "sangilbapbap",
+    "storage_bucket": "sangilbapbap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382180039376:android:16a6218512197679ed5cd5",
+        "android_client_info": {
+          "package_name": "com.sangilbapbap.sangilbapbap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEwWZeeuyFuVCywdHPCiKhOxJ1vuu0YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
